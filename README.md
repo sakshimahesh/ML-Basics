@@ -1,3 +1,2 @@
-# ML-Basics
-#Pandas
+# ML-Basics #Package pandas
 Data visualization commands
